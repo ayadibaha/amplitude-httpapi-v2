@@ -1,0 +1,27 @@
+{
+  "name": "amplitude-httpapi-v2",
+  "version": "1.0.0",
+  "description": "This is a wrapper for amplitude http api v2 to use in any project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayadibaha/amplitude-httpapi-v2.git"
+  },
+  "keywords": [
+    "amplitude",
+    "tracking",
+    "user",
+    "behaviour",
+    "api",
+    "metrics"
+  ],
+  "author": "BahaEddine Ayadi <ayadibaha51@gmail.com> (https://github.com/ayadibaha)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayadibaha/amplitude-httpapi-v2/issues"
+  },
+  "homepage": "https://github.com/ayadibaha/amplitude-httpapi-v2#readme"
+}
